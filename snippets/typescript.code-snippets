@@ -1,1 +1,6 @@
-{}
+{
+  "TSX console.log()": {
+    "prefix": ["con", "log"],
+    "body": ["console.log($1);"]
+  }
+}
