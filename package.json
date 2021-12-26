@@ -1,7 +1,7 @@
 {
   "name": "ts",
   "displayName": "ts-snippets",
-  "description": "Typescript, Vue, Vue3, Nuxt, Nuxt3, React, Next, Nest, Express snippets all in one",
+  "description": "Typescript, Vue, Nuxt, React, Next, Angular, Nest, Express snippets all in one",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.63.0"
