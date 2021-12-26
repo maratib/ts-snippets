@@ -1,8 +1,19 @@
 {
-  "name": "ts",
-  "displayName": "ts-snippets",
-  "description": "Typescript, Vue, Nuxt, React, Next, Angular, Nest, Express snippets all in one",
+  "name": "tsx-snippets",
+  "displayName": "tsx-snippets",
+  "description": "Typescript, Vue, Nuxt, React, Next, Angular, Nest, Express snippets (all in one power pack)",
   "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/maratib/ts-snippets.git"
+  },
+  "author": {
+    "name": "Maratib Ali Khan",
+    "email": "maratib@gmail.com",
+    "url": "https://maratib.github.io"
+  },
+  "publisher": "maratib",
+  "license": "ISC",
   "engines": {
     "vscode": "^1.63.0"
   },
