@@ -1,3 +1,3 @@
-# Typescript, Vue, Nuxt, React, Next, Nest, Express snippets all in one
+# Typescript, Vue, Nuxt, React, Next, Angular, Nest, Express snippets all in one
 
-### Typescript, Vue, Vue3, Nuxt, Nuxt3, React, Next, Nest, Express snippets all in one
+### Also covers Vue3, Nuxt3
