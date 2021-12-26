@@ -40,6 +40,14 @@
         "path": "./snippets/typescript-vue3.code-snippets"
       },
       {
+        "language": "typescript",
+        "path": "./snippets/nuxt.code-snippets"
+      },
+      {
+        "language": "javascript",
+        "path": "./snippets/nuxt.code-snippets"
+      },
+      {
         "language": "typescriptreact",
         "path": "./snippets/typescriptreact.code-snippets"
       },
@@ -50,6 +58,14 @@
       {
         "language": "vue-html",
         "path": "./snippets/vue.code-snippets"
+      },
+      {
+        "language": "vue",
+        "path": "./snippets/nuxt.code-snippets"
+      },
+      {
+        "language": "vue-html",
+        "path": "./snippets/nuxt.code-snippets"
       }
     ]
   }
