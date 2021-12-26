@@ -1,0 +1,76 @@
+{
+  "Vue data: () =>": {
+    "prefix": "vData-arrow",
+    "body": ["data: () => ({$1})"]
+  },
+  "Vue data: function() return": {
+    "prefix": "vData-function",
+    "body": ["data() {", "return {$1};", "},"]
+  },
+
+  "Vue methods": {
+    "prefix": "vMethods",
+    "body": ["methods: {", "\t${1:fn}() { $0 }", "},"]
+  },
+
+  "Vue import ... from 'vue'": {
+    "prefix": "vImport",
+    "body": ["import $0 from 'vue'"]
+  },
+  "Vue reactive": {
+    "prefix": "vReactive",
+    "body": ["const $0obj = reactive()"]
+  },
+  "Vue readOnly": {
+    "prefix": "vReadonly",
+    "body": ["const $0obj = readonly()"]
+  },
+  "Vue setup": {
+    "prefix": "vSetup",
+    "body": ["setup() { $0 },"]
+  },
+  "Vue onBeforeMount": {
+    "prefix": "von-beforeMount",
+    "body": ["onBeforeMount(() => { $0 }),"]
+  },
+  "Vue onMount": {
+    "prefix": "von-mount",
+    "body": ["onMount(() => { $0 }),"]
+  },
+  "Vue onBeforeUpdate": {
+    "prefix": "von-beforeUpdate",
+    "body": ["onBeforeUpdate(() => { $0 }),"]
+  },
+  "Vue onUpdate": {
+    "prefix": "von-update",
+    "body": ["onUpdate(() => { $0 }),"]
+  },
+  "Vue onBeforeUnmount": {
+    "prefix": "von-beforeUnmount",
+    "body": ["onBeforeUnmount(() => { $0 }),"]
+  },
+  "Vue onUnmounted": {
+    "prefix": "von-unmounted",
+    "body": ["onUnmounted(() => { $0 }),"]
+  },
+  "Vue onErrorCaptured": {
+    "prefix": "von-errorCaptured",
+    "body": ["onErrorCaptured(() => { $0 }),"]
+  },
+  "Vue onRenderTracked": {
+    "prefix": "von-renderTracked",
+    "body": ["onRenderTracked(() => { $0 }),"]
+  },
+  "Vue onRenderTriggered": {
+    "prefix": "von-renderTriggered",
+    "body": ["onRenderTriggered(() => { $0 }),"]
+  },
+  "Vue teleport": {
+    "prefix": "vTeleport",
+    "body": ["<teleport to='$0' />"]
+  },
+  "Vue componentIs": {
+    "prefix": "vComponentIs",
+    "body": ["<component :is='$0'></component>"]
+  }
+}

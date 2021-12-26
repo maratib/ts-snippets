@@ -14,6 +14,30 @@
       {
         "language": "javascript",
         "path": "./snippets/snippets.code-snippets"
+      },
+      {
+        "language": "typescript",
+        "path": "./snippets/typescript.code-snippets"
+      },
+      {
+        "language": "typescript",
+        "path": "./snippets/typescript-vue.code-snippets"
+      },
+      {
+        "language": "typescript",
+        "path": "./snippets/typescript-vue3.code-snippets"
+      },
+      {
+        "language": "typescriptreact",
+        "path": "./snippets/typescriptreact.code-snippets"
+      },
+      {
+        "language": "vue",
+        "path": "./snippets/vue.code-snippets"
+      },
+      {
+        "language": "vue-html",
+        "path": "./snippets/vue.code-snippets"
       }
     ]
   }
